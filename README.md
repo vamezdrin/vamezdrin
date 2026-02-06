@@ -3,11 +3,11 @@
   <p>Python backend разработчик</p>
 </div>
 
-<div id="socials" align="center">
+<!-- <div id="socials" align="center">
   <a href="https://barnaul.hh.ru/resume/3ee0c0cdff0f53385c0039ed1f31524a554976">
     <img src="https://hhcdn.ru/ichameleon/00181.png" alt="hh.ru">
   </a>
-</div>
+</div> -->
 
 ### Обо мне
 Имею опыт проектирования RESTful API, написанию телеграмм ботов и развертывания приложений. 
